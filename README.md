@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-github.png
+git https://github.com/Kodluyoruz/taskforce/raw/main/git/odev1/figures/github.png
